@@ -59,6 +59,19 @@ Neha and Ramesh are high-value customers — together contributing to nearly hal
 The peak sales date was January 11, 2024, with a total of ₹2,700 generated on that day.
 
 The Sales by City map shows concentrated sales activity in Indian regions, particularly urban centers.
+## Dataset Description:
+Dataset Name: Sales_Data_Model.csv
+Column Name	Description
+OrderID	Unique order identifier
+CustomerName	Name of the customer
+ProductName	Product sold (Laptop, Mouse, etc.)
+Category	Product category (Accessories, Electronics, Kitchenware)
+RegionName	Region where the sale occurred (North, South, West, East)
+City	City of customer or sale
+OrderDate	Date of transaction
+Quantity	Number of units sold
+TotalAmount	Total sales amount (in ₹)
+Profit	Profit earned from each sale
 
 
 
