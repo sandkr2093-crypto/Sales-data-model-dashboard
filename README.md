@@ -46,6 +46,19 @@ Order Summary Table: Detailed breakdown by customer, product, quantity, and tota
 🛒 Category Filter: Accessories, Electronics, Kitchenware
 
 📅 Date Range Filter: Enables time-based analysis
+## Key Insights
+
+West region recorded the highest sales (₹5,000) — indicating stronger market presence or demand.
+
+All three product categories (Accessories, Electronics, Kitchenware) contributed equally (33.3%) to total revenue.
+
+Headphones and Laptops are the top-selling products, generating around ₹8.6K each.
+
+Neha and Ramesh are high-value customers — together contributing to nearly half the total sales.
+
+The peak sales date was January 11, 2024, with a total of ₹2,700 generated on that day.
+
+The Sales by City map shows concentrated sales activity in Indian regions, particularly urban centers.
 
 
 
