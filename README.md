@@ -72,6 +72,17 @@ OrderDate	Date of transaction
 Quantity	Number of units sold
 TotalAmount	Total sales amount (in ₹)
 Profit	Profit earned from each sale
+## Dataset Summary:
+
+Total Records: 14 transactions
+
+Time Period: 5th Jan 2024 – 11th Jan 2024
+
+Regions Covered: North, South, West
+
+File Format: CSV
+
+Data Source: Simulated transactional data for sales performance analysis
 
 
 
